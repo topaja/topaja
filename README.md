@@ -45,3 +45,6 @@
   <!--  VS CODE  -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a></p>
+    <!--  Figma  -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img alt="Figma" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a></p>
