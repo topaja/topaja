@@ -1,14 +1,10 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/topaja)
 
 <h1 align="center">Hi 👋, I'm Topaja Saha</h1>
-<h3 align="center">A passionate Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif">
 
-- 🌱 I’m currently learning **Web Development**
-
+- 🍁 I am currently : **Learning - Observing - Implementing**
 - 📫 How to reach me **saha.topaja@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 <p align="left">
 </p>
@@ -45,6 +41,9 @@
   <!--  VS CODE  -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a></p>
-    <!--  Figma  -->
+  <!--  Figma  -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img alt="Figma" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a></p>
+    <img alt="Figma" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a>
+  <!-- Canva -->
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+    <img alt="Canva" width="40" height="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/yc9v9k1wnlf82njvxdxh" /></a></p>
