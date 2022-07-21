@@ -46,4 +46,4 @@
     <img alt="Figma" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a>
   <!-- Canva -->
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img alt="Canva" width="40" height="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/yc9v9k1wnlf82njvxdxh" /></a></p>
+    <img alt="Canva" height="40" src="https://res.cloudinary.com/admitad-gmbh/image/upload/v1631360091/wlegozrhnfcx7roqgbjn.png" /></a></p>
