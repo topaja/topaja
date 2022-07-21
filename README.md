@@ -46,4 +46,10 @@
     <img alt="Figma" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" /></a>
   <!-- Canva -->
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img alt="Canva" height="40" src="https://res.cloudinary.com/admitad-gmbh/image/upload/v1631360091/wlegozrhnfcx7roqgbjn.png" /></a></p>
+    <img alt="Canva" height="40" src="https://res.cloudinary.com/admitad-gmbh/image/upload/v1631360091/wlegozrhnfcx7roqgbjn.png" /></a>
+  <!--  Illustrator  -->
+  <a href="https://www.adobe.com/in/products/illustrator.html?gclid=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB&sdid=SBNHMR64&mv=search&ef_id=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB:G:s&s_kwcid=AL!3085!3!473191824624!e!!g!!website%20illustrator!221170148!17525613788" target="_blank" rel="noreferrer">
+    <img alt="Illustrator" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" /></a>&nbsp;&nbsp;
+    <!--  XD  -->
+  <a href="https://www.adobe.com/in/products/xd.html?gclid=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB&sdid=SBNHMR64&mv=search&ef_id=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB:G:s&s_kwcid=AL!3085!3!473191824624!e!!g!!website%20illustrator!221170148!17525613788" target="_blank" rel="noreferrer">
+    <img alt="XD" width="40" height="40" "style=margin:50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" /></a></p>
