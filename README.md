@@ -52,4 +52,7 @@
     <img alt="Illustrator" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" /></a>&nbsp;&nbsp;
     <!--  XD  -->
   <a href="https://www.adobe.com/in/products/xd.html?gclid=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB&sdid=SBNHMR64&mv=search&ef_id=Cj0KCQjwz96WBhC8ARIsAATR251WyNQ_VKuYwsLgBpmQWCiPnGj_MF51NmDvNNanc_jmDC_tux8ITi4aAiYpEALw_wcB:G:s&s_kwcid=AL!3085!3!473191824624!e!!g!!website%20illustrator!221170148!17525613788" target="_blank" rel="noreferrer">
-    <img alt="XD" width="40" height="40" "style=margin:50%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" /></a></p>
+    <img alt="XD" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" /></a>&nbsp;&nbsp;
+ <!--  Wordpress  -->
+  <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiRvI3H27v5AhUEHisKHbw1BBQYABAAGgJzZg&ohost=www.google.com&cid=CAESa-D2ZPT6_kDinKIEtNWieSgFSAANUoV5Odl0HHxuxPYgosmcUoDn1BBb_IavXwvVNFxgOI56-5rVkBUzb-kdljVLQgqRtS34cNggLzVAyrM3GuRJKRt6pBcXi6OY41-CFFzcHf2wEt7-aalf&sig=AOD64_0_mHoW0hy_-QFG1jgAg72j9oSzvw&q&adurl&ved=2ahUKEwi584fH27v5AhUySGwGHW7GAKEQ0Qx6BAgDEAE" target="_blank" rel="noreferrer">
+    <img alt="wordpress" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"/></a></p>
