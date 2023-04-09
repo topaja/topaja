@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Topaja Saha</h1>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif">
 
-- 🍁 I am currently : **Learning - Observing - Implementing**
 - 📫 How to reach me **saha.topaja@gmail.com**
 
 <p align="left">
