@@ -5,7 +5,7 @@
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif" />-->
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif"> -->
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/03prashantpk/03prashantpk/main/assets/keep_coding.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/03prashantpk/03prashantpk/main/assets/keep_coding.gif">
 
 
 - 🌱 I’m currently learning **Full Stack Web Development**
