@@ -32,6 +32,6 @@
 <a href="https://github.com/topaja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=topaja&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-[![Topaja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=topaja&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Topaja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=topaja&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/topaja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topaja&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
