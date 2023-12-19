@@ -19,7 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,c,cpp,html,css,js,figma,xd" /></a>
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
