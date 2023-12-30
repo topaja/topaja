@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/03prashantpk/03prashantpk/main/assets/keep_coding.gif">
 
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently exploring the ins and outs of full-stack web development on the learning path.
 
 - 💬 Ask me about **C++  |  HTML  | CSS  |  Javascript  |  Designs**
 
