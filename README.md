@@ -1,7 +1,7 @@
 
 ![Topaja Saha](https://github.com/topaja/topaja/assets/87275904/8ac71bd5-586b-46a3-ad31-cef8c9d95eaf)
 
-<h1 align="center">Hi there👋, Welcome to my coding universe ✨</h1>
+<h1 align="center">Hi there👋, Welcome to my <i>Github Profile</i> ✨</h1>
 
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif" />-->
 <!--<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*yBvA5CnEX3Sd4aod.gif"> -->
