@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**.
 
-- 💬 Ask me about **C++  |  HTML  | CSS  |  Javascript  |  Designs**
+- 💬 Ask me about **C++  |  HTML  | CSS  |  Javascript**
 
 - 📫 How to reach me **saha.topaja@gmail.com**
 
